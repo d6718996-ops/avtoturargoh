@@ -1,0 +1,3 @@
+mkdir avtoturargoh
+cd avtoturargoh
+git init
